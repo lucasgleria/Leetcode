@@ -56,7 +56,13 @@ Os desafios estão organizados em categorias para facilitar a navegação e o es
 ```
 Leetcode/
 ├── algorithms/     # Desafios de DSA
+|   ├── easy/
+|   ├── medium/
+|   ├── hard/
 ├── canvas/         # Desafios de tabela
+|   ├── easy/
+|   ├── medium/
+|   ├── hard/
 └── README.md       # Este arquivo
 
 ```
